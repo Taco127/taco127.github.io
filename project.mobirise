@@ -42,7 +42,7 @@
   "pages": {
     "Rules.html": {
       "settings": {
-        "meta_descr": "Site Creator Description",
+        "meta_descr": "Taco Haven's Rules",
         "title": "Rules",
         "order": 2
       },
@@ -501,7 +501,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "A Way Back Home",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -956,7 +956,7 @@
     },
     "Donations.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "Help Support The Server",
         "title": "Donations",
         "order": 4
       },
@@ -1487,7 +1487,7 @@
     },
     "Forms.html": {
       "settings": {
-        "meta_descr": "Site Creator Description",
+        "meta_descr": "Ban Appeals and Trainee Applications,
         "title": "Forms",
         "order": 3
       },
